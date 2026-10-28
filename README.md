@@ -1,2 +1,2 @@
 # ip-html-practice
-Introduction to Programming coursework and weekly HTML practice
+Internet Programming coursework and weekly HTML practice
